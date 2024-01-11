@@ -88,6 +88,11 @@ import plotly.graph_objects as go
 
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=df["Period"], y=cash_flows, mode="lines", name="Cash Flow"))
+```
+<img width="609" alt="Screenshot 2024-01-11 163634" src="https://github.com/Laurenjohns/Machine-Learning-Projects/assets/107310914/0250e0db-c6b2-4e4b-95b3-041f217b2255">
+
+
+```python
 
 fig.update_layout(
     title = "Cash Flow Over Time",
@@ -101,5 +106,6 @@ print(f'IRR: {irr_result: .2%}')
 print(f'Payback Period: {payback_period} years')
 print(f'PI: {pi: .2f}')
 ```
+<img width="614" alt="Screenshot 2024-01-11 163703" src="https://github.com/Laurenjohns/Machine-Learning-Projects/assets/107310914/26b7db6a-402e-4917-aadf-dba5cff17418">
 
 ---
