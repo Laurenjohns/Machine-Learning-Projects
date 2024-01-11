@@ -106,6 +106,7 @@ print(f'IRR: {irr_result: .2%}')
 print(f'Payback Period: {payback_period} years')
 print(f'PI: {pi: .2f}')
 ```
-<img width="614" alt="Screenshot 2024-01-11 163703" src="https://github.com/Laurenjohns/Machine-Learning-Projects/assets/107310914/26b7db6a-402e-4917-aadf-dba5cff17418">
+
+<img width="829" alt="Screenshot 2024-01-11 164059" src="https://github.com/Laurenjohns/Machine-Learning-Projects/assets/107310914/16abef65-353e-4c90-9e99-518f8cfb57b3">
 
 ---
