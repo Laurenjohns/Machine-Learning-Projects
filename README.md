@@ -33,7 +33,11 @@ plt.figure()
 model.plot(forecast, xlabel='Date', ylabel='Sales Qty')
 plt.title('Sales Forecast')
 plt.show()
+```
 
+<img width="562" alt="Screenshot 2024-01-12 125602" src="https://github.com/Laurenjohns/Machine-Learning-Projects/assets/107310914/a60120c6-207c-4071-936f-ea08e3a01ddf">
+
+```python
 # plot the historical data
 
 import pandas as pd
@@ -48,6 +52,8 @@ plt.xticks(rotation=45)
 plt.grid(True)
 plt.show()
 ```
+
+<img width="542" alt="Screenshot 2024-01-12 125525" src="https://github.com/Laurenjohns/Machine-Learning-Projects/assets/107310914/23a023dc-9dba-453b-afc9-3cf375df0380">
 
 ---
 
